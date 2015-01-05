@@ -1,0 +1,4 @@
+
+#exclusion of exentions
+*.exe
+*.dll
